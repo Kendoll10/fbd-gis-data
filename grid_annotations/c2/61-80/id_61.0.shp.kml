@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>id_61.0.shp</name>
+	<visibility>0</visibility>
 	<open>1</open>
 	<Style id="falseColor">
 		<BalloonStyle>
@@ -1223,10 +1224,12 @@
 	</Style>
 	<Folder id="layer 0">
 		<name>id_61</name>
+		<visibility>0</visibility>
 		<open>1</open>
 	</Folder>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor67</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1241,6 +1244,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1255,6 +1259,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor26</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1269,6 +1274,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor4</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1283,6 +1289,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor82</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1297,6 +1304,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor55</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1311,6 +1319,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor61</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1325,6 +1334,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor51</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1339,6 +1349,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor64</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1353,6 +1364,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor68</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1367,6 +1379,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor81</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1381,6 +1394,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor32</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1395,6 +1409,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor21</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1409,6 +1424,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor20</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1423,6 +1439,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor22</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1437,6 +1454,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor62</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1451,6 +1469,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor15</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1465,6 +1484,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor56</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1479,6 +1499,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor44</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1493,6 +1514,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor27</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1507,6 +1529,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor59</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1521,6 +1544,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor49</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1535,6 +1559,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor72</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1549,6 +1574,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor16</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1563,6 +1589,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1577,6 +1604,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor30</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1591,6 +1619,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor76</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1605,6 +1634,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor33</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1619,6 +1649,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor25</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
