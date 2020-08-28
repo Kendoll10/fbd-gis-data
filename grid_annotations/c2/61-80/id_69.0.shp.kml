@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>id_69.0.shp</name>
+	<open>1</open>
+	<Style id="falseColor">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor0">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor1">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor94</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor3">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor96</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor5">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor7">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor8">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor9">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor11">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor99</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor13">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor82</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor15">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor74</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor95</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor92</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor85</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor75</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor22">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor23">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor122</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor25">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor81</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor29">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor119</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor112</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor32">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor33">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor34">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor35">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor36">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor87</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor39">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor40">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor41">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor42">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor89</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor44">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor45">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor46">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor48">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor109</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor51">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor52">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor53">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor54">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor55">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor56">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor57">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor58">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor59">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor60">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor61">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor62">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor117</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor66">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor67">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor68">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor103</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor69">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor76</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor70">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor71">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor72">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor73">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor108</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor74">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor75">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor76">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor77">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor79">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor80">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor81">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor82">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor83">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor84">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor85">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor86">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor106</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor116</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor87">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor88">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor53</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor89">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor90">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor91">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor107</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor92">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor93">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor94">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor95">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor96">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor97">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor98">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor83</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor99">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor123</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor101">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor102">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor103">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor104">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor79</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor118</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor106">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor107">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor108">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor109">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor111">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor112">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor113">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor114">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor115">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor84</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor116">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor117">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor118">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor119">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor120">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor121">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor122">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor123">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_69/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_69/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_69/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_69/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_69/bottom]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor124">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="layer 0">
+		<name>id_69</name>
+		<open>1</open>
+	</Folder>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor27</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.837882863774394,10.0487568346439,0 6.837920302734666,10.04880023128893,0 6.837985249030767,10.04880176101984,0 6.838023306707058,10.04882497750676,0 6.838062654600002,10.04881669411166,0 6.838105831084489,10.048817911671,0 6.838161538501668,10.04882896154938,0 6.838214755173578,10.0488304953689,0 6.838281381632187,10.04884084388616,0 6.838340641894584,10.04884950087707,0 6.838372456263704,10.04884646613974,0 6.838408666235186,10.0488545156775,0 6.838398667687016,10.04888680419854,0 6.838391087492923,10.04891023158813,0 6.838405727976049,10.04895262205561,0 6.838432858917082,10.0489798173804,0 6.83843236623233,10.04901936573359,0 6.838401598731602,10.04907604029804,0 6.838389207047644,10.04912559306487,0 6.838372731667843,10.04918082718899,0 6.838371135075785,10.04928754042412,0 6.838367162812866,10.04939761599379,0 6.838270152249544,10.04942652148701,0 6.83818081711959,10.04946012695331,0 6.838095015807335,10.04946568489764,0 6.83801833178962,10.04945622780627,0 6.837945501245444,10.04942190750208,0 6.837889237535773,10.0493789638769,0 6.837890601160465,10.04928668644458,0 6.837839872606109,10.04928899015158,0 6.837721000910422,10.04923022932236,0 6.837767784712295,10.0491657807955,0 6.83777839426555,10.04909707932216,0 6.837782747906238,10.04902048246354,0 6.837786349180497,10.04892020970729,0 6.837800942994335,10.048815689074,0 6.837806686746868,10.04872971157572,0 6.837882863774394,10.0487568346439,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor47</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.832100692618177,10.05260450429876,0 6.832060271491112,10.05246935770965,0 6.832031719435932,10.05236837601676,0 6.832170519861604,10.05233135269534,0 6.83223592179917,10.05231335953808,0 6.832276097313965,10.05229386498659,0 6.832355343920621,10.05227422295821,0 6.832418766560561,10.05225492850659,0 6.832464251052595,10.05221942664864,0 6.832512405734377,10.05218094762921,0 6.832622403817479,10.05223651975219,0 6.832634574167946,10.05220166974856,0 6.8327121681321,10.05220832089188,0 6.832761331191863,10.05222251721033,0 6.832830779412418,10.05227951796633,0 6.832882365868604,10.05233066879442,0 6.832918559485208,10.05237331364035,0 6.832932383767067,10.05241695765181,0 6.832937057672829,10.05246362084196,0 6.832969322572122,10.05249305142863,0 6.832935309293109,10.05253362047685,0 6.832854628650022,10.05258478268754,0 6.832760665916129,10.05264896075254,0 6.832696161967626,10.05268179806434,0 6.832658245987111,10.0527239976136,0 6.832541790024598,10.05271456293359,0 6.832468718062497,10.05271565321627,0 6.832363512461185,10.05274972566064,0 6.832268625004414,10.05274889427221,0 6.832158328747586,10.05273649215848,0 6.832100692618177,10.05260450429876,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor88</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.831279874681178,10.05198154579988,0 6.831238824288173,10.0518631023867,0 6.831315770901234,10.0518258459255,0 6.83127952410551,10.05171766831123,0 6.831376491668948,10.05168255670823,0 6.831339511782815,10.05152511443721,0 6.831321713335918,10.05144645845543,0 6.831292475790153,10.05136914239774,0 6.831467898610624,10.05134269876951,0 6.831530169088738,10.05132182418581,0 6.831645060086933,10.05129684227156,0 6.831731434973756,10.05127302003409,0 6.831749823864826,10.05130233288498,0 6.831784543713761,10.05137020914023,0 6.831824409634606,10.05141512023585,0 6.83186150249349,10.05147395149881,0 6.831909727932173,10.05156564888217,0 6.831948028256964,10.05164595671258,0 6.831987223840043,10.05173698277338,0 6.832030216306211,10.05183555044269,0 6.832054742643432,10.05194025276952,0 6.83205659755028,10.05201103889216,0 6.831939633600395,10.05201750873343,0 6.83186090034402,10.05203986238285,0 6.831801156994432,10.05202444231266,0 6.831747540907802,10.0520421973349,0 6.831679345705557,10.05208399301575,0 6.831676601005309,10.05218719967127,0 6.831647973418149,10.05220613495163,0 6.831551206817497,10.05220470567445,0 6.831458093153737,10.0522327914585,0 6.831357893226341,10.05224814388357,0 6.831366544741845,10.05221656198195,0 6.831358271615082,10.05218738856276,0 6.831322715863579,10.05214720730234,0 6.831259846669528,10.05217459113666,0 6.831161445728213,10.05215515818986,0 6.831106899028736,10.05203740959659,0 6.831279874681178,10.05198154579988,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor104</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.8394793098864,10.04743240419227,0 6.839666138711471,10.0474738582053,0 6.839806862094397,10.04750375845282,0 6.839754279596482,10.04759358745337,0 6.839746821821684,10.04765723205147,0 6.839740387467874,10.04773222906312,0 6.839739437571353,10.0478198841994,0 6.839746229697534,10.04788437900774,0 6.83976950607388,10.04793581177017,0 6.839759629063611,10.04799082071894,0 6.839716011888939,10.04806442954256,0 6.839711118567131,10.04811551203995,0 6.839740664589979,10.04817061317922,0 6.839715621197859,10.04822318229598,0 6.83966378435718,10.04825403143642,0 6.839558963798147,10.04830528354339,0 6.839503251921355,10.04832623736818,0 6.839419514565646,10.04829214232961,0 6.839410561765225,10.04819792978872,0 6.839373953052923,10.04809658159846,0 6.839349615264338,10.04792351671237,0 6.839325207077527,10.04778901347411,0 6.83929142955197,10.04765702895444,0 6.839280168094324,10.04752276372778,0 6.839277326562215,10.04743320660437,0 6.8394793098864,10.04743240419227,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor100</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.84011467664061,10.04930947539528,0 6.840141233682296,10.04920782913956,0 6.840127248434995,10.04909199530313,0 6.840145716509005,10.04889180490053,0 6.840170378448775,10.04888918834766,0 6.840220988933059,10.0488880928015,0 6.840251613023163,10.0489034836089,0 6.84031115852857,10.04889951438019,0 6.840362784437477,10.04889977935445,0 6.840405494082058,10.04890217981297,0 6.840460023204756,10.04890585414094,0 6.840494851996246,10.04889620039616,0 6.840529771603771,10.04890672640786,0 6.840546396346614,10.04891546295712,0 6.840542995720473,10.04893826678254,0 6.840544648259959,10.04896376952843,0 6.840531079257117,10.04898806120263,0 6.840524621494993,10.04901744306594,0 6.840527525624589,10.04903869021919,0 6.840528817888205,10.04906515113671,0 6.840521911929121,10.04909339538564,0 6.840538344849545,10.0491084450005,0 6.840517646303108,10.0491398213002,0 6.840519169624737,10.04916987073529,0 6.840508871129081,10.04918659811944,0 6.840515418301266,10.04920106057579,0 6.840528046021874,10.04919984142902,0 6.840545612011337,10.04918930515663,0 6.840551536844222,10.04922025794099,0 6.840535386798001,10.04927343650212,0 6.840531414234723,10.04933310425833,0 6.840514285660683,10.04939790443524,0 6.840477236160876,10.04945122169079,0 6.840406758883981,10.0494643744531,0 6.840311836708921,10.04945700852182,0 6.84022931589454,10.04944394440853,0 6.840174364760136,10.04942645069693,0 6.840110481964543,10.04941145796665,0 6.84011467664061,10.04930947539528,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor14</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.840017141615933,10.05018809732582,0 6.840076562637536,10.05017435538681,0 6.840115890101601,10.05016761839987,0 6.84015266072093,10.05017128635329,0 6.840169895986685,10.05017766799106,0 6.840171139099478,10.05019263413912,0 6.840167297031574,10.05021168213197,0 6.840158432066232,10.05023311981765,0 6.840162477151899,10.05026408435325,0 6.840150998102068,10.05029783362271,0 6.840151483542696,10.050340011085,0 6.840131834957477,10.05035592683196,0 6.840128613805492,10.05037048306898,0 6.840149022368072,10.0503801249557,0 6.840141355818197,10.05041272896265,0 6.840135973361976,10.05044356182505,0 6.840135403973919,10.05048474926918,0 6.840141521097767,10.05052188855564,0 6.840092493839174,10.05051306947895,0 6.840055349808962,10.05050775276636,0 6.840001897977801,10.0505107933479,0 6.839996101137014,10.05047226635709,0 6.839993254404404,10.05044435680999,0 6.839992300269932,10.05040704979263,0 6.840005882312643,10.05038791120852,0 6.840011144180305,10.05034091433633,0 6.840009175661256,10.05031944070176,0 6.839952739805907,10.05032374094358,0 6.839934096946052,10.05028895095858,0 6.839933589138996,10.05024340713108,0 6.839939933284724,10.05019924105653,0 6.840017141615933,10.05018809732582,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor28</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.840317477235846,10.05044493433961,0 6.84036524463952,10.05044522493985,0 6.840421325554771,10.05044656643514,0 6.840458540160428,10.05046102938498,0 6.840460368604944,10.05048919956934,0 6.840455672935571,10.05054546643748,0 6.840453508070683,10.05061863677257,0 6.84044591917695,10.05069367030549,0 6.840465404987734,10.05074036203601,0 6.84047776917311,10.05079571800098,0 6.840412356806027,10.05082505664923,0 6.840345836758437,10.05083031045497,0 6.840343469449728,10.05079219818108,0 6.840324277054934,10.05073891282507,0 6.840281630906222,10.05072722378358,0 6.840208843138509,10.05072655114684,0 6.840197178981828,10.05067998358137,0 6.840204123665856,10.05059345461726,0 6.840215205981122,10.05052753411508,0 6.840246656191898,10.05049496259547,0 6.840255115983065,10.0504685880293,0 6.840317477235846,10.05044493433961,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor73</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.842422480544728,10.04974720467845,0 6.842453496348673,10.04977709342348,0 6.842490192904506,10.04978496201868,0 6.842516864599619,10.0498052759115,0 6.842547483104331,10.04982873494063,0 6.842613934517702,10.04986431859842,0 6.842654127992931,10.04989510645838,0 6.842688961433083,10.04990897310829,0 6.842734414389422,10.04992858393647,0 6.842742707277778,10.04996306638936,0 6.842788868372325,10.04999909505729,0 6.842812889084344,10.04999740158522,0 6.842851049982126,10.05001857549437,0 6.842873971151908,10.05004473526316,0 6.842884098567634,10.0500779817501,0 6.842906615074034,10.05008270747096,0 6.842930752386323,10.05008931370299,0 6.842924154470449,10.05010729721105,0 6.842901290241159,10.05015579018881,0 6.842855691218441,10.05020210417179,0 6.842820635605229,10.05015319395274,0 6.842770936875398,10.05013547525042,0 6.842714924815327,10.05010517920195,0 6.842646539305132,10.05008534442507,0 6.842557033341372,10.05006017430713,0 6.842521012055038,10.05003749529866,0 6.842432722791038,10.05001963967304,0 6.842380941713733,10.04995994171422,0 6.842376041088867,10.04989565034025,0 6.842369129234758,10.04982028500086,0 6.8423720776372,10.04975398068686,0 6.842422480544728,10.04974720467845,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor50</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.839508229374525,10.05167628827523,0 6.839592578236539,10.05168903273335,0 6.839675602812514,10.05168802562621,0 6.839773480857543,10.05169129605853,0 6.839881131720526,10.05170730571351,0 6.839951311056209,10.05171044257744,0 6.840026111361619,10.05171870738763,0 6.840089354721808,10.05170405527172,0 6.840077743013612,10.05176825059219,0 6.8400637828845,10.05184127554531,0 6.840053171332303,10.05190391542567,0 6.840025627432363,10.05195675995071,0 6.840001540471617,10.05199899110088,0 6.839984311769232,10.05206135311284,0 6.839920560145812,10.05206382352237,0 6.839797902576789,10.05205926278724,0 6.839763416741103,10.05203678869749,0 6.83973214668268,10.05202078774204,0 6.839697215248455,10.05206119240558,0 6.839628064907641,10.05206026361012,0 6.839565277377247,10.05205211500752,0 6.839513701489226,10.05204066139621,0 6.839437654905995,10.05204299404974,0 6.839442150541119,10.05196406576361,0 6.839453720946893,10.05191345438705,0 6.839463529238133,10.05186311543263,0 6.839450025046247,10.05185062965529,0 6.839464930318804,10.05178203353988,0 6.839466911619107,10.05171936969667,0 6.839508229374525,10.05167628827523,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor97</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.839323627376597,10.04549837259053,0 6.839713688320661,10.045453832827,0 6.839766924696868,10.04547263555557,0 6.839796530051196,10.04549341450329,0 6.83981401609323,10.04553020361945,0 6.839823829176217,10.04558464620709,0 6.839834600810581,10.04568352207983,0 6.839829364135208,10.0457547710627,0 6.839818458117978,10.04584094445718,0 6.839807236928781,10.04590661650749,0 6.839790102741292,10.04596698625676,0 6.839750302609202,10.04598307164461,0 6.839708482719811,10.04595121893084,0 6.839659121343804,10.04590967734791,0 6.839578584257704,10.04590166988766,0 6.839480437186474,10.04591338227501,0 6.839419495933249,10.0459090242721,0 6.839356023838389,10.04593478208318,0 6.839260702193693,10.04593950718948,0 6.839247364974064,10.04588293297405,0 6.839255310937351,10.04581145460592,0 6.839242319457259,10.0457353766316,0 6.839235042853479,10.04561681680047,0 6.839236016999283,10.04551929713517,0 6.839323627376597,10.04549837259053,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor10</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.83982541663724,10.04528591226924,0 6.83982762871554,10.04518996226133,0 6.839799465622622,10.04517518237285,0 6.839823531432927,10.04508059010327,0 6.839858949716233,10.04500569392945,0 6.839859520382607,10.0449993093246,0 6.839879508021031,10.04498369703387,0 6.83990512682449,10.04497299997586,0 6.83994153094311,10.04498448749263,0 6.839976196337125,10.04500564553478,0 6.840020980975283,10.04502400215402,0 6.840058208048488,10.04505073295041,0 6.840109024590221,10.0450764695806,0 6.840176224549579,10.04502938632185,0 6.840223336360771,10.04500408411181,0 6.840256402766485,10.04499969582587,0 6.840298212764308,10.04501314475576,0 6.840348778103705,10.04503175680111,0 6.840378154030075,10.04505444038235,0 6.840402464222375,10.04509118929984,0 6.840419376258666,10.04511223609705,0 6.840442031509621,10.04512306580352,0 6.840422120090068,10.04518602296268,0 6.840402808436292,10.04524840136774,0 6.840379622244626,10.04531672431694,0 6.840356837002933,10.04537561718746,0 6.84033641434143,10.04542940359801,0 6.840341575398192,10.04545730231481,0 6.840338893192874,10.04552785703901,0 6.840309910558302,10.04551790796046,0 6.840259648387496,10.0455651501892,0 6.840202808729277,10.04555554048643,0 6.840116749042959,10.04554793384894,0 6.840021117625734,10.04555630374486,0 6.839955180408188,10.04556002659646,0 6.839867413123947,10.04553353868927,0 6.839828219308095,10.04548231138846,0 6.839806836157365,10.04543783431639,0 6.839835659669902,10.04539542040408,0 6.839819477874838,10.04534792797028,0 6.83982541663724,10.04528591226924,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor18</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.841783710546951,10.04489280844583,0 6.841824831281009,10.04491473347868,0 6.841821978855293,10.04493894720424,0 6.84182103777554,10.04497963897464,0 6.841794939003556,10.04503986488807,0 6.841779858471632,10.04507358960045,0 6.841780011380858,10.04510016624973,0 6.841769830671122,10.04515851777001,0 6.841750348878104,10.0452496259591,0 6.84173616245185,10.04521894898461,0 6.841696955359298,10.04522072844819,0 6.841660506181622,10.04525337512328,0 6.841637140060124,10.04519803921429,0 6.84161075713426,10.04510552106661,0 6.841607696745737,10.04509594308932,0 6.841499127574244,10.04507447076285,0 6.841490603887468,10.04502792129511,0 6.84151609006064,10.04497555923984,0 6.841516049165932,10.04492798145735,0 6.841533615684532,10.04486127048245,0 6.841783710546951,10.04489280844583,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor17</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.839860448223611,10.04341292947987,0 6.839965497664817,10.04346420303029,0 6.840053210406807,10.04349654192744,0 6.840129675399984,10.04350425340928,0 6.840184461728378,10.04353493879333,0 6.840220863418301,10.04354583141071,0 6.840229048861963,10.04356217378164,0 6.84024418714547,10.04358953608818,0 6.840281390227085,10.04359881792879,0 6.840328082611524,10.04361187076013,0 6.840365819120581,10.04361755188093,0 6.840376209077997,10.04364943481304,0 6.840400391218806,10.04367616168052,0 6.840452181565837,10.04369186369548,0 6.840494703028888,10.04370375097669,0 6.840578313781389,10.04370824880929,0 6.840588511966265,10.0437356567982,0 6.84052398254356,10.04376677931962,0 6.840464579172439,10.0437983470324,0 6.840404262822045,10.04383646520758,0 6.840343206914314,10.04386903950837,0 6.840295131964293,10.0439086760609,0 6.840231559408694,10.0439553785698,0 6.840214769502229,10.04399445869998,0 6.84020335196837,10.04404316336499,0 6.840177648166983,10.0440835564909,0 6.840191755228641,10.04412479954051,0 6.840168598594031,10.04418504510311,0 6.840154384826828,10.0442348342915,0 6.840098828253128,10.04435290041488,0 6.840026437289064,10.04432586243378,0 6.839925765439167,10.04428857115792,0 6.839831169886256,10.04425200212292,0 6.839771101743716,10.0442912887881,0 6.839694758550769,10.04437163879111,0 6.839633809786014,10.0444286260037,0 6.839580930633677,10.04443619197474,0 6.839538739831845,10.04441199457221,0 6.839468323698741,10.04435668642363,0 6.839397953413082,10.04430012764257,0 6.839377377820892,10.04425017226704,0 6.839455610011898,10.04411286868595,0 6.83952174560488,10.04404564437908,0 6.839496583267845,10.04399046097262,0 6.839473078302132,10.04394081579406,0 6.839547188711221,10.04387094584005,0 6.839588943989217,10.04383882791976,0 6.839637935709697,10.04381685276678,0 6.839644389368084,10.04376645316162,0 6.839629738774606,10.04367705366398,0 6.839656282881439,10.04360626703573,0 6.839702561556411,10.04351742717628,0 6.839728051792693,10.04343933568495,0 6.839761582051622,10.04338121710374,0 6.839860448223611,10.04341292947987,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor2</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.840775423425356,10.04351439688057,0 6.840819379199756,10.043496178925,0 6.840902876515418,10.04347449118214,0 6.841015032406412,10.04346146604417,0 6.841103339531984,10.04348460815505,0 6.841154219960734,10.0435014256504,0 6.841187105839115,10.04352252532352,0 6.841169575511785,10.04354788202006,0 6.841154666239908,10.04359566208361,0 6.841142214937599,10.04362959129895,0 6.841107725526512,10.04366372639139,0 6.841067719506196,10.04373638024194,0 6.841040725860877,10.0437781542918,0 6.841013221273389,10.04384240799875,0 6.840984284605027,10.0438864061022,0 6.84097190353228,10.04394623433924,0 6.840923624137218,10.04404750357734,0 6.840837037133232,10.04411671525763,0 6.840840839010625,10.04425784093582,0 6.840786604130498,10.04432615784454,0 6.840727312938202,10.0443689734585,0 6.840640114700552,10.04443792405427,0 6.840548918363569,10.04447458040714,0 6.840500754899672,10.04448273543927,0 6.840428320535086,10.04442019531248,0 6.840387862499824,10.04436306181389,0 6.840334023414893,10.04430837600433,0 6.840322896269628,10.04426670384224,0 6.840396793542549,10.04415218732156,0 6.840442960844011,10.04407113824911,0 6.840436083055533,10.04404601429108,0 6.840459088362712,10.0440097152502,0 6.840440928567064,10.04399068099066,0 6.840487759323417,10.04394336471944,0 6.840587226352131,10.04382873324184,0 6.840635494134382,10.04373633715479,0 6.840724444958068,10.0436146245318,0 6.840775423425356,10.04351439688057,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor49</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.831476419199438,10.04032537424063,0 6.831484605583089,10.04027069314633,0 6.831523710027312,10.04026476514461,0 6.831538433088083,10.04024494632798,0 6.8315313506826,10.04020922965289,0 6.831546373936002,10.04013668869919,0 6.831578199552464,10.04007215668435,0 6.831654766086118,10.04005740448422,0 6.83168786295774,10.04003019061,0 6.831756534509985,10.04003571218314,0 6.831811660690466,10.04005102976777,0 6.831845829843712,10.04007512309279,0 6.831923386970134,10.04008223598953,0 6.831938761406038,10.04012219644095,0 6.831976699411754,10.04011989882271,0 6.831978517605091,10.04016359289052,0 6.831957486264201,10.04019419761398,0 6.831899160060875,10.04020595862779,0 6.831863240741516,10.04022473427107,0 6.83185139744811,10.04026185330219,0 6.831866658037722,10.04029542722876,0 6.83190066789813,10.04031768540742,0 6.831938852539238,10.04032080302832,0 6.831934928226184,10.04035185411099,0 6.831930899478529,10.04038738625659,0 6.831936141635737,10.04042338201254,0 6.831893731446197,10.04049019528796,0 6.831896691838089,10.04053673064529,0 6.831863078037925,10.04057004525777,0 6.831857701359723,10.04062362990547,0 6.83186067483337,10.0407072030493,0 6.831695454503293,10.04065915044047,0 6.831604251611054,10.04060520116396,0 6.831525711691146,10.04053305583644,0 6.83144879290015,10.04046239951992,0 6.831439725925959,10.04039458901904,0 6.831476419199438,10.04032537424063,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor16</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.83250177908016,10.04085981228122,0 6.832540548844019,10.04078448432488,0 6.832557055443047,10.04065609398932,0 6.832578559439451,10.04051920245319,0 6.832599794076479,10.04044052446116,0 6.832625809522098,10.04041510571356,0 6.83266329266107,10.04042925998835,0 6.832703309725712,10.04044790636991,0 6.832735702062065,10.04047156345998,0 6.832755538944541,10.0404890971829,0 6.832808464649281,10.04050086485451,0 6.832886846983623,10.04051923167417,0 6.832941883107122,10.04054437030885,0 6.832960007949609,10.04057396122834,0 6.833037686394485,10.04057162065151,0 6.832994382634807,10.04067301074912,0 6.832968214450707,10.04074456706664,0 6.832957015062071,10.04080813251019,0 6.832883555320142,10.04084216970555,0 6.832857073233518,10.04088794483561,0 6.832825379790788,10.04092783362293,0 6.83275436205014,10.04097805833309,0 6.83270206029885,10.04104837441422,0 6.832644606624012,10.04109769233998,0 6.832630077025048,10.04112514562006,0 6.832575489580163,10.04109493974664,0 6.832506133120589,10.04107923920674,0 6.832449975686446,10.04106064258413,0 6.83250177908016,10.04085981228122,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor20</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.830908351985889,10.041244328948,0 6.830948585665418,10.04116393799081,0 6.830992117140142,10.04112399599693,0 6.831054661976033,10.04112475851983,0 6.831146508242984,10.04110701567146,0 6.83123264940265,10.0410867498359,0 6.831303229816164,10.0410643663295,0 6.83135539688343,10.0410093310566,0 6.831442949865814,10.04098999246299,0 6.831505582276751,10.04097435127157,0 6.831536432100307,10.04098155912865,0 6.831581912414122,10.04094763939329,0 6.831636297711528,10.04096212309855,0 6.831672538163767,10.04101293650844,0 6.83168292227246,10.04106014878201,0 6.831639738088711,10.04110736847754,0 6.831593067326636,10.04115578091562,0 6.831543120438091,10.04118137055169,0 6.831552558982857,10.04122632897759,0 6.831579975425573,10.04127460809582,0 6.83161050296281,10.04129218004081,0 6.83164135318097,10.0413257301785,0 6.831634040354486,10.04139387562001,0 6.831552543765788,10.0414470690723,0 6.831469560039278,10.04148107743744,0 6.831384862863485,10.04146439037772,0 6.831287408694291,10.04144497785333,0 6.831191360942819,10.04144570521516,0 6.831152729201473,10.0414305878239,0 6.831122717959241,10.04138551020264,0 6.831008848533273,10.04140666922931,0 6.830993914887133,10.04135813511435,0 6.830944764556667,10.04129605862665,0 6.830908351985889,10.041244328948,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor26</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.830468553591606,10.04468841327794,0 6.830553526108949,10.04476929108978,0 6.830641154269157,10.04484920510467,0 6.830737347777037,10.04492457767392,0 6.830824853323286,10.04495520279699,0 6.830889542783433,10.04502008094577,0 6.830901494835402,10.0450899044338,0 6.830892435286291,10.04515842519502,0 6.830840318640172,10.0452103838131,0 6.830818012731092,10.04524366882607,0 6.830811925377811,10.0452852160238,0 6.830811325051243,10.04533648386743,0 6.830758791887983,10.04538260489782,0 6.830724895528764,10.04542193415908,0 6.830684856100431,10.04545455796151,0 6.83066101848503,10.04550953562642,0 6.830673269173094,10.04554883864664,0 6.830643932386833,10.0455790328911,0 6.830621764337696,10.04561988043019,0 6.830574127113412,10.04560456206169,0 6.830528079907103,10.04559952274344,0 6.830488782398316,10.04558685978932,0 6.830442358174991,10.04556671675117,0 6.830390052941267,10.04556931012438,0 6.830377277366648,10.04551949852089,0 6.830426369085478,10.04544187295896,0 6.830472530828366,10.04535990735675,0 6.830505455505611,10.04530607736112,0 6.830511319920404,10.04525557271062,0 6.830481111069863,10.04523802701337,0 6.83045496411848,10.04519936351558,0 6.830420296060695,10.04517803338767,0 6.830441819072528,10.04514486641208,0 6.830473483161359,10.04511633287228,0 6.830502568814145,10.04505021926307,0 6.830515491811077,10.0449802315884,0 6.830508467850905,10.04488229040689,0 6.830490509655174,10.04483836571472,0 6.83048930283535,10.04479903422379,0 6.830501347191921,10.04477797030765,0 6.830489946112401,10.04475877157757,0 6.830465511968673,10.04475521175937,0 6.830468553591606,10.04468841327794,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor65</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.83555255989843,10.04232511367491,0 6.835626232822691,10.04232433124731,0 6.835699488984948,10.04233571595738,0 6.835743657124393,10.04234596881743,0 6.835793246686491,10.04237739410734,0 6.835855274490403,10.04239507012951,0 6.83585376905115,10.04246289995073,0 6.835831678329938,10.04255853911287,0 6.835807962114187,10.04260328796231,0 6.83578097771753,10.04261992296515,0 6.835775877660392,10.04267639145029,0 6.835798835375401,10.04273036844707,0 6.835783107713409,10.04280088945723,0 6.835749028402835,10.04285864197612,0 6.835712456195853,10.04288841100861,0 6.835694518315572,10.04292330545496,0 6.835645243387294,10.04291875817821,0 6.835608886194617,10.04293327234582,0 6.835548510476393,10.0429414715659,0 6.835494764570827,10.04290751389524,0 6.835431874284128,10.04291676743177,0 6.835413113317388,10.042916836642,0 6.835367539230544,10.0429042652358,0 6.835306547130473,10.04287667993132,0 6.835315605758661,10.04283092633034,0 6.835327856358216,10.04278347632872,0 6.835350174796413,10.04275666388043,0 6.835381343012161,10.04274256005639,0 6.83541140721303,10.04277414192609,0 6.83545618479791,10.04273000968076,0 6.835436673223834,10.04266884523362,0 6.835473178384468,10.0426788685095,0 6.835479643031046,10.04266140931724,0 6.835468157336111,10.04262286583001,0 6.835473733584734,10.04256568642523,0 6.835504447774506,10.04250763244317,0 6.835505215571052,10.04245304393246,0 6.835530065893152,10.04242242881837,0 6.835536150756045,10.04237832244888,0 6.83555255989843,10.04232511367491,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor12</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.83472119733236,10.04244641455939,0 6.834734434463313,10.04244838251597,0 6.834750161692911,10.04249225658509,0 6.834806163979419,10.04249748888085,0 6.834816447987803,10.04252324545418,0 6.834838492658212,10.04252482087994,0 6.834846723411152,10.04254501948213,0 6.834866220178013,10.04255647693385,0 6.834885659816212,10.04254713308282,0 6.834910758315711,10.04255020907631,0 6.834927872258055,10.04253876029863,0 6.834944139755603,10.04254082404004,0 6.83497620711737,10.04258581800922,0 6.835002760378959,10.0425681287404,0 6.835038182065343,10.04260263326275,0 6.835026420412831,10.04265946134674,0 6.835044952523517,10.04270490529712,0 6.835063712660401,10.04273437658811,0 6.835087865568155,10.04273782998687,0 6.835090257586359,10.04279086701347,0 6.835031199215065,10.04285597114445,0 6.835025618557149,10.04291532030123,0 6.834976517692795,10.04291431875648,0 6.834952988092827,10.04295007884572,0 6.834913849436751,10.04297252969576,0 6.834873637635781,10.04296398626319,0 6.834868316616356,10.04290488956416,0 6.834821446626867,10.04289031472935,0 6.834766386920053,10.04291362150874,0 6.834733076302029,10.04297461782533,0 6.834676555997651,10.04297192250792,0 6.83463491996611,10.04300855933533,0 6.834603385515738,10.04298551366749,0 6.83461778904215,10.04294919109773,0 6.834604695091726,10.04291358308358,0 6.834641656843765,10.04289307789241,0 6.83466499955289,10.0428601026023,0 6.834698914435013,10.04282791111556,0 6.834716730689106,10.04278263804819,0 6.834702064535813,10.042747998525,0 6.834647745384017,10.04272418300711,0 6.834597197489247,10.04267945682514,0 6.834671767034206,10.04261081459986,0 6.834703320364335,10.04254743383248,0 6.834715979169179,10.04250399476601,0 6.834707011729608,10.04245336039889,0 6.83472119733236,10.04244641455939,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor93</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.83747595316081,10.041396800406,0 6.837641620793242,10.04135785387135,0 6.837675516202182,10.0413779986168,0 6.837691150462948,10.04142713099617,0 6.837690664676557,10.04147784918236,0 6.837677597689065,10.04153693647567,0 6.837680850671108,10.04159361337381,0 6.837686550888106,10.04165691512268,0 6.837685844996981,10.04169311488993,0 6.837623783498561,10.04174149556068,0 6.837572993386685,10.0418071333718,0 6.837532737863969,10.04187561626838,0 6.837436616448763,10.04186007107488,0 6.837367845268092,10.04190501467836,0 6.837330604487473,10.04187679911167,0 6.837356402160191,10.04180540956884,0 6.837344877812875,10.04175887363716,0 6.837320419216906,10.04168643525582,0 6.837354414454031,10.04164154584238,0 6.837299352912824,10.04160325618201,0 6.837265253525171,10.04150442384416,0 6.83726367866309,10.04149792148516,0 6.837254204085228,10.04142417829423,0 6.83747595316081,10.041396800406,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor4</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.836369510618723,10.04199781632584,0 6.83641688545112,10.04200488617483,0 6.836455493318123,10.04206631350673,0 6.83648797454635,10.04210593406098,0 6.836487958412915,10.04204831552898,0 6.836516433146227,10.04202139434987,0 6.836554535262569,10.04201048040655,0 6.836570663552393,10.04202819504016,0 6.836565646594623,10.04205645598269,0 6.836593681081795,10.04208037426482,0 6.836595676684778,10.04210439910817,0 6.836606812355264,10.04214645452337,0 6.836642310653625,10.04218076637149,0 6.836719984306214,10.04219422558903,0 6.836753905999108,10.04221082753205,0 6.836796683678587,10.04220947587975,0 6.836827891811046,10.04224088913288,0 6.836809306010867,10.0422967885536,0 6.836842737406538,10.04230480232972,0 6.836807964288094,10.0423565339754,0 6.836804593109179,10.04238807105831,0 6.836826310069188,10.04240435040393,0 6.836830366180376,10.04244086497946,0 6.836850850986727,10.04246791811786,0 6.836823790595479,10.04250728087293,0 6.83679620791358,10.0425474036461,0 6.836747442224693,10.04257920022442,0 6.836731310387767,10.04251646284246,0 6.836673633846624,10.04253047506723,0 6.83662797966277,10.04256203309628,0 6.836583343026144,10.04260305587757,0 6.836544486115514,10.04262940630787,0 6.836493322277328,10.04263578839071,0 6.836458069000491,10.04262984233876,0 6.836398847849967,10.04271099863494,0 6.836313572968091,10.04269123891545,0 6.836316643502598,10.04262559777359,0 6.836331534187263,10.04257077566738,0 6.836262627665574,10.04250359041508,0 6.836188540968918,10.04253992525615,0 6.836146180370188,10.04255251273401,0 6.836113198148174,10.04251535965023,0 6.836183110701701,10.04238592534451,0 6.836213759509993,10.0423955180743,0 6.836248411403747,10.04237445313435,0 6.836256411245756,10.04233860415811,0 6.836249436777793,10.04231214193808,0 6.836201481212234,10.04228245748986,0 6.836236105987801,10.04224423761589,0 6.836315142723537,10.0420829587962,0 6.836369510618723,10.04199781632584,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor64</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.834375542036735,10.03847534841185,0 6.834424562686474,10.03851325499016,0 6.834484711291051,10.03855436412914,0 6.834546744755096,10.03860241466835,0 6.834608846025743,10.03864142748987,0 6.834637783912449,10.03863981118592,0 6.834702480616524,10.03865557978243,0 6.834740286275927,10.03867839195875,0 6.834724052034595,10.03870595456939,0 6.834708022940004,10.03873232264098,0 6.834686154695908,10.03876512297485,0 6.834684782019935,10.03879370979775,0 6.834672105560693,10.03883418739059,0 6.834687996523458,10.03885939612675,0 6.834682795351905,10.03888804592536,0 6.83468335189106,10.03890363955677,0 6.834661142979989,10.03893854091258,0 6.834632586962359,10.03895710750982,0 6.834599367953976,10.03895271403575,0 6.834523077955277,10.0389445765485,0 6.834506844454314,10.03892585305526,0 6.834484734334579,10.03892839466706,0 6.834427954941811,10.03890816063745,0 6.834423495628332,10.0388569047233,0 6.834362383248376,10.03885220754922,0 6.834304276476102,10.03883105811981,0 6.834238830129699,10.03882370442442,0 6.834203397767675,10.03882316679009,0 6.834161972027657,10.03881297730081,0 6.834158376790429,10.03879100046382,0 6.834150862967984,10.03875316289003,0 6.834131961172256,10.03874783229571,0 6.834130906941553,10.03873107771934,0 6.834171094976133,10.0386989548116,0 6.834176539171168,10.03866849795732,0 6.834162117370335,10.0386525056356,0 6.834143292507767,10.03867455768583,0 6.834151456509621,10.03862871519416,0 6.834188810864489,10.03858904617708,0 6.834208179686597,10.03852386482105,0 6.83424099242716,10.03850593737706,0 6.834318298671686,10.03852948985874,0 6.83433677760577,10.0384848095625,0 6.834375542036735,10.03847534841185,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor30</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.835926487819357,10.03780796647536,0 6.835915789427665,10.0378468002491,0 6.835923820132425,10.03787867800316,0 6.835918567628314,10.03794878484321,0 6.835932879050242,10.03802356050604,0 6.835908274803641,10.03805131520524,0 6.835914565493811,10.03819615882271,0 6.835932073573336,10.03827652745235,0 6.835934001373117,10.03836406187626,0 6.835873601048014,10.03836265671386,0 6.835829141055408,10.03837075580613,0 6.835789265539698,10.03838049970813,0 6.835767447907717,10.0383613920536,0 6.835735150950848,10.03834415916891,0 6.835701654989663,10.03834269593562,0 6.835668389168205,10.03833655849649,0 6.835640511998973,10.03834444419821,0 6.835636749728097,10.03828184866927,0 6.835624746161058,10.03822937713421,0 6.835624017385218,10.03818589855141,0 6.835641409111237,10.03817624497402,0 6.835656962156749,10.03815587567995,0 6.835660966971688,10.03811883002725,0 6.835636520175701,10.03810723498331,0 6.835616121198633,10.03810342817263,0 6.835617776943195,10.03803151917544,0 6.835616273377083,10.03797771789467,0 6.835609927955555,10.03793844686888,0 6.835611503177108,10.03787731439406,0 6.835645637373958,10.03786479454902,0 6.835648234757206,10.03782136639384,0 6.835686534295926,10.03782029191543,0 6.835730362782606,10.03782713484033,0 6.835735713650035,10.03779672908006,0 6.835776329928496,10.03778034337669,0 6.835834049118443,10.03779844669648,0 6.83585572381558,10.03779646494097,0 6.835903021064258,10.03779732730234,0 6.835926487819357,10.03780796647536,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor43</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.835789963358621,10.03901463005725,0 6.83583839694696,10.03902485600656,0 6.835884233675174,10.03905410508118,0 6.83596456214519,10.03908903338709,0 6.836035309719808,10.03913365199803,0 6.836129557875767,10.03914252516334,0 6.83615161809358,10.03917364775806,0 6.836129889200855,10.0392470828435,0 6.836124406645006,10.03930737278947,0 6.836090086064028,10.03935299769558,0 6.836103294373834,10.03940787743359,0 6.836033206058422,10.03943036731017,0 6.83597289213253,10.03943222511823,0 6.83592589566633,10.03944038229672,0 6.835842251737168,10.03944007185854,0 6.83578330098257,10.03944823322345,0 6.835698407801525,10.03946057519105,0 6.835685741896819,10.0394311744226,0 6.835664858913177,10.03938998938738,0 6.835695152440344,10.03933580082813,0 6.835729168175093,10.03931613823638,0 6.835727112464392,10.03927714301083,0 6.835708981547304,10.0392331376791,0 6.835684577577839,10.03920117963391,0 6.835681454633615,10.03909416569409,0 6.835743876646134,10.03905749079949,0 6.835789963358621,10.03901463005725,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor6</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.832053065406702,10.03763152451492,0 6.832113748187782,10.03763036799032,0 6.832188211277376,10.03764304127537,0 6.832261058103988,10.03765212726448,0 6.832301636791518,10.03763496430642,0 6.832318298208005,10.0376798369544,0 6.832324206786811,10.03770922471712,0 6.832376663149504,10.03772275566332,0 6.832390602750777,10.03781232945073,0 6.832423083434021,10.03788507638804,0 6.832438222711172,10.03797163087427,0 6.832429639458384,10.03803867258793,0 6.832377534629932,10.03804946291435,0 6.832291667161956,10.03806164427175,0 6.832235669678985,10.03808186696259,0 6.83220652303075,10.03812968127373,0 6.832201959677016,10.03817640759245,0 6.832223398479808,10.0381978014605,0 6.832212182736974,10.03824030584243,0 6.832204643953577,10.03831356470764,0 6.832226241279944,10.03834974483978,0 6.83223388822528,10.0383684161471,0 6.832257347352582,10.03840122820815,0 6.832280592972171,10.03843397163129,0 6.832297395578617,10.03846797726153,0 6.832306471716199,10.03849999328951,0 6.832303476523924,10.03851959424079,0 6.832274359195756,10.03852447460485,0 6.832233055560824,10.03853114175213,0 6.83218402912723,10.0385317103631,0 6.832136455186523,10.03853308285625,0 6.832059895976332,10.03853952292496,0 6.831984980740337,10.03854028224256,0 6.83193673051782,10.03855306805341,0 6.831909722048599,10.03854957984867,0 6.831845209890924,10.03856872129486,0 6.831803402818939,10.03858014067073,0 6.831758899678007,10.03854254945824,0 6.83174296141128,10.03851891721041,0 6.831753231982393,10.03848383211915,0 6.83177782004374,10.03846948190674,0 6.831791912291689,10.0384114803652,0 6.831787419796873,10.03834700842992,0 6.831744511439705,10.03835168738453,0 6.831767466660549,10.03832351650332,0 6.831777598444781,10.03826935036233,0 6.831732206089407,10.0382713237975,0 6.831737150516375,10.03816157593359,0 6.8317382575505,10.03806248001544,0 6.831741238389095,10.03800303654559,0 6.831746015404658,10.03793321492931,0 6.831751188705226,10.03789652386174,0 6.831782545480342,10.03787955246757,0 6.831783294627567,10.03785317293375,0 6.831762790212101,10.03783987211005,0 6.831762894584612,10.03780081533114,0 6.831765674198191,10.03776605839616,0 6.831766328497347,10.0377376695714,0 6.831771607658075,10.03771500745387,0 6.831783815416619,10.03770496632202,0 6.831825135023395,10.03769945820125,0 6.83182164005644,10.03772330590222,0 6.831841630776858,10.03772964321261,0 6.831871256593997,10.03771177084691,0 6.831879771360409,10.03770348522748,0 6.831902572062056,10.03770313329507,0 6.831907981050214,10.03771528211952,0 6.831943758338925,10.03770980097833,0 6.831997063469255,10.03771547637383,0 6.832042721359503,10.03771636685538,0 6.832053065406702,10.03763152451492,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor31</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.831002113238571,10.02399926652264,0 6.830999027681242,10.02395232583808,0 6.83100099134931,10.02387975413347,0 6.83098503559629,10.02384367881232,0 6.830999906790667,10.02379684902539,0 6.830986748170693,10.02376981521786,0 6.830967045014507,10.02370412017043,0 6.830935594652772,10.02364723608449,0 6.830916346616127,10.02360109794539,0 6.830954289104278,10.02355966196984,0 6.830989537612011,10.0235280547112,0 6.831051147658156,10.02355029356353,0 6.831103826065512,10.02358796125074,0 6.831144078539626,10.02363686263171,0 6.831179107174059,10.02365555676558,0 6.831220564075311,10.02367165017085,0 6.831259148588236,10.02369528814937,0 6.831281742536928,10.02372983183899,0 6.831318751701001,10.02375535018283,0 6.831347441792783,10.02384190708703,0 6.831378704533719,10.02391031641517,0 6.831420134673318,10.02389696891347,0 6.831461304954322,10.02391440384158,0 6.831530307371743,10.02397891379501,0 6.831570594862466,10.02402474201411,0 6.831553518301101,10.02411968525261,0 6.831564353627638,10.02416510111253,0 6.831588672379869,10.02428358386499,0 6.83161969523997,10.0243497094265,0 6.831534022377205,10.02440659824824,0 6.831516007980872,10.0244153375221,0 6.831505712962073,10.02442060870359,0 6.831399653491967,10.02438241042962,0 6.831332380531785,10.02433617040971,0 6.831304845796453,10.02433996791267,0 6.83118716684347,10.02429766139536,0 6.831122640356657,10.0242841739217,0 6.831058187129981,10.02426231004275,0 6.831007452398925,10.02420599149038,0 6.831002113238571,10.02399926652264,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor21</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.837395732437126,10.0089331852418,0 6.83755072911278,10.00893768156462,0 6.837699468781782,10.0089740809808,0 6.837827548841839,10.00900394995864,0 6.837866738906053,10.00905427778939,0 6.83781521823984,10.00912400561965,0 6.837797910016585,10.0092086034244,0 6.837755261539716,10.00932007740241,0 6.837712886238867,10.00937478165097,0 6.837694089547844,10.0094320730821,0 6.837709145646391,10.00946745005833,0 6.837695258443024,10.00953349064127,0 6.837600164713753,10.00952460052724,0 6.837475504561352,10.00950146535508,0 6.837408954723152,10.0094919069358,0 6.837308428493392,10.00948443018101,0 6.837302864688775,10.00939466646938,0 6.837297500112172,10.00930811838386,0 6.837250776257607,10.00929177691984,0 6.837276279149684,10.00913570616293,0 6.837302175311759,10.00906602436094,0 6.837210845062476,10.00904131164755,0 6.837236366728576,10.00898027131154,0 6.837328024626448,10.00894011875924,0 6.837395732437126,10.0089331852418,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor115</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.904152770615664,9.954822174082466,0 6.904348585219376,9.954823084794048,0 6.904603405090239,9.954849673194518,0 6.904824499806534,9.954863063062081,0 6.904974589208921,9.954799814735319,0 6.905167567305504,9.954788592357394,0 6.905296256978321,9.954768876673384,0 6.905364854290692,9.954786562642035,0 6.905349813693825,9.95485638048989,0 6.905350132543311,9.954960615655475,0 6.905403746577264,9.955081543375822,0 6.90540479724012,9.955242069964532,0 6.905417393533089,9.955334791351058,0 6.905415446157348,9.955418302203377,0 6.905370612708534,9.955494809337898,0 6.905353337764559,9.955612873316531,0 6.905309009462051,9.955625586442359,0 6.905262364378775,9.955815405868126,0 6.905219495691854,9.955975296239588,0 6.905211992555882,9.956080548072787,0 6.905174984005138,9.956102477308756,0 6.905145294261814,9.95605260800088,0 6.905046483527759,9.956019919805456,0 6.90482316309935,9.95598490548702,0 6.904650158952441,9.955957601562073,0 6.904485399396902,9.955930332986791,0 6.904375065801503,9.955921658174256,0 6.904290885909505,9.955909585216048,0 6.904281341258216,9.955832537020688,0 6.904240923824457,9.955828000802654,0 6.904218488214227,9.955727439047569,0 6.904121904325899,9.955716424201178,0 6.904056299799648,9.955697073565364,0 6.903989218372296,9.955665326053007,0 6.904016694027026,9.955515222994352,0 6.904060095133775,9.955254509281437,0 6.904099423372081,9.955025450023058,0 6.904152770615664,9.954822174082466,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor105</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.904686953564898,9.956900976547681,0 6.904757486121373,9.956800329569706,0 6.904830757558011,9.956694632506769,0 6.904946203233651,9.95653903680118,0 6.905052582188056,9.956567057307906,0 6.905142962508384,9.956614335802611,0 6.905210809355644,9.95661899805885,0 6.905324027649565,9.95666130745089,0 6.905407887883421,9.956679595080185,0 6.905422534148522,9.956723889152808,0 6.905382806728248,9.956792372929637,0 6.905348065246377,9.95695176707007,0 6.905341096406532,9.957031463748974,0 6.905341225085819,9.957148367592978,0 6.905332168432452,9.957243276443833,0 6.905246814707344,9.957281463335292,0 6.905068035676145,9.957264090963077,0 6.904906251071612,9.957219603976322,0 6.904799648716149,9.957166118849704,0 6.904585144368305,9.957042860949707,0 6.904686953564898,9.956900976547681,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor19</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.903484907631947,9.955504106981669,0 6.903576497052654,9.955518873312586,0 6.903676562857617,9.95555567108811,0 6.903672497984299,9.955602558457405,0 6.903715395463168,9.955622669411918,0 6.903732144415073,9.955643295548114,0 6.903900440470685,9.955655719532132,0 6.903920287184038,9.955733415996468,0 6.903936718471108,9.95580973904341,0 6.903969882059505,9.955834554049543,0 6.904001532574653,9.955840998872768,0 6.90408816279583,9.955814200986401,0 6.904178423954097,9.95581275611959,0 6.904179266184983,9.955845055550339,0 6.904198834194175,9.955863407084946,0 6.904258954554745,9.955881218163912,0 6.904309207036481,9.955944757019004,0 6.904305717387851,9.956023074890574,0 6.904315999311263,9.956167758805066,0 6.90430684788077,9.956301184887778,0 6.904265766300792,9.956354549754845,0 6.904106649529254,9.956344003759975,0 6.903978254342071,9.95628738363831,0 6.903876242508731,9.956237781577563,0 6.903773637071405,9.956242212754463,0 6.903676013056232,9.956249755450687,0 6.903518049201775,9.956261390272854,0 6.90349237916482,9.956155689687709,0 6.903486183421661,9.956023907910406,0 6.903462649184542,9.955920810813577,0 6.903442767927701,9.955818627034432,0 6.903440363011175,9.955725128401316,0 6.903438858771223,9.955625153353092,0 6.903442386722654,9.955524352945783,0 6.903484907631947,9.955504106981669,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor124</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.909508689560193,9.964943761476672,0 6.909531221761737,9.964821111734139,0 6.909560790097238,9.964727976552314,0 6.909613592741795,9.964703068399675,0 6.909720682972718,9.964688162037968,0 6.909804448206247,9.964701425532906,0 6.909886668868126,9.964785236556185,0 6.909959280085944,9.964877755703005,0 6.910036369575576,9.964955849395686,0 6.910153105298744,9.965060628357996,0 6.910206325818196,9.965135572190965,0 6.91028869786352,9.965256594542858,0 6.910338454450111,9.965290705977967,0 6.910369468306314,9.965363366771205,0 6.910341101019915,9.965456297077797,0 6.910272655558116,9.965550960662522,0 6.910145466142817,9.965561130932796,0 6.909979789672633,9.965607923668523,0 6.909884986077659,9.965648930152918,0 6.909832366246047,9.96569486275134,0 6.909739112863472,9.965728270745739,0 6.909725087247562,9.965801430526732,0 6.909640729492342,9.96581312943953,0 6.909569941909426,9.96581623184149,0 6.909501691775322,9.965754427726621,0 6.909492498395804,9.965652630994224,0 6.909455679945875,9.965524772395444,0 6.909422750510837,9.965351001286656,0 6.909342541590611,9.965274088518495,0 6.909508689560193,9.964943761476672,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor98</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.901702278811889,9.966669385988565,0 6.901837975963905,9.966753054435806,0 6.901877535453989,9.966768765494775,0 6.901940223296146,9.966786716020659,0 6.901981585485859,9.966830598747395,0 6.902013693992153,9.966818823470257,0 6.902064157105741,9.966831162848962,0 6.902081445419821,9.966863640506929,0 6.902124533923645,9.966870079924657,0 6.902156791638485,9.966786112068021,0 6.902187878242256,9.966749312267552,0 6.902205488187079,9.966714974696062,0 6.902233255530263,9.966675434813382,0 6.902263498391839,9.966698000641241,0 6.902318287626228,9.966719280433272,0 6.902254176345124,9.966785784994391,0 6.902220186567492,9.966847979239093,0 6.902188245004397,9.96691140905172,0 6.902141077349375,9.966998880638918,0 6.90207287435944,9.967166164607287,0 6.902021973731167,9.967304421536124,0 6.901980837233279,9.967434461731159,0 6.901952036291828,9.967501290223749,0 6.901942918667451,9.967608342776922,0 6.901906954768753,9.967710070141777,0 6.901873206136544,9.967769432970908,0 6.901869515517733,9.967808243215941,0 6.901854839649433,9.967862393824106,0 6.901814790048357,9.967889522783647,0 6.90179735148996,9.967927335664479,0 6.901781709552475,9.967983842153695,0 6.901727806183326,9.968011879448303,0 6.901717826078084,9.968084175786679,0 6.9017238684596,9.968146794030107,0 6.901765755172118,9.968180804178148,0 6.901746218812068,9.96821809929925,0 6.901742787911884,9.968271166717221,0 6.901699765773792,9.968328846916151,0 6.90167860402354,9.968455524540394,0 6.901578543815441,9.968446964402538,0 6.901494307708491,9.968370983268681,0 6.901423830042108,9.968249215722341,0 6.901367762487929,9.968181520255243,0 6.901316431529425,9.968060658442175,0 6.901256008498167,9.967946650147827,0 6.901200823608608,9.967802554034225,0 6.901128477490972,9.967678061542754,0 6.901110201468617,9.967602857017269,0 6.90112334229924,9.967449563414538,0 6.901086352761667,9.967376607042096,0 6.901080294789863,9.967257938103897,0 6.901051251256105,9.967140885143712,0 6.901026014920404,9.967043957622092,0 6.901013056679444,9.96702383591558,0 6.901013734923485,9.966890557831636,0 6.901052015805229,9.966737320374888,0 6.90108363553934,9.966571646452271,0 6.901157418895005,9.966609712838846,0 6.901201857669886,9.966597980141325,0 6.901306381625556,9.96665342727545,0 6.901410616612158,9.966684211108092,0 6.901484101652631,9.966564465207632,0 6.901702278811889,9.966669385988565,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor24</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.898710233943204,9.962619747532489,0 6.898803255212551,9.962510087447113,0 6.898801359195447,9.962417108897895,0 6.898844995780573,9.962301945868752,0 6.898900568059812,9.962196363278672,0 6.898956469725728,9.962205794705454,0 6.899021791768023,9.962220072038916,0 6.899096788018133,9.962256385273994,0 6.89918925545564,9.962262790320331,0 6.899281155602512,9.962275834908871,0 6.899341405065751,9.962308299708599,0 6.899408270567486,9.962300070672386,0 6.899501855826249,9.962403103147798,0 6.899507440159565,9.962503944623565,0 6.899472399817856,9.96263043216438,0 6.899370058842582,9.962768917941935,0 6.899348869398203,9.962866632674665,0 6.899315930947636,9.962941159811844,0 6.899123957930753,9.962892189524727,0 6.898999151171246,9.962853216259148,0 6.898880417279488,9.962843852853272,0 6.898725720242107,9.962776217511122,0 6.898710233943204,9.962619747532489,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor69</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.902105288450811,9.971893133826399,0 6.90221771200102,9.9718087476331,0 6.902332564249171,9.971718434015081,0 6.902407783028258,9.971687067522305,0 6.902425333826891,9.971747941645241,0 6.902438806631883,9.971783265991888,0 6.902454218503942,9.971849104902129,0 6.902496857164484,9.971876691140762,0 6.902540176392509,9.971867815178765,0 6.902592611331519,9.971973449092129,0 6.902640322830211,9.972076375997757,0 6.90268387461535,9.972217597705825,0 6.90273472874102,9.972319995790563,0 6.902723297018012,9.972395850160353,0 6.902666800712598,9.972443204351498,0 6.902556252941181,9.972471846680111,0 6.902476578503453,9.972546159315256,0 6.902449378081979,9.972587733641818,0 6.902361171093306,9.972683595940415,0 6.90225319778643,9.972761405595813,0 6.902112336858788,9.972812351884784,0 6.902003531106839,9.972858975130782,0 6.901886999143281,9.972885077203987,0 6.901836621594768,9.972780496956013,0 6.901829486522095,9.972631880793752,0 6.90183259391284,9.972482471582804,0 6.90181398082339,9.972397980447202,0 6.901753681633029,9.972343917025352,0 6.901742675790552,9.972263038670956,0 6.901781626003927,9.972228633599201,0 6.901776368325234,9.972154023133259,0 6.901851435466577,9.97202763725052,0 6.902105288450811,9.971893133826399,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor78</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.887075687510514,9.967243888886626,0 6.88720205947055,9.96725735066906,0 6.88732713811625,9.967264895573967,0 6.8873551437021,9.96724691315082,0 6.887392758594302,9.967290721437276,0 6.887400756106874,9.96733739244412,0 6.887386360012857,9.967430206874189,0 6.887369386138631,9.96751771110611,0 6.887339026531983,9.967612896463255,0 6.887289310340519,9.967654447267599,0 6.887254804966281,9.96774657400783,0 6.88715844238091,9.967712869926647,0 6.887062742347252,9.967724508520472,0 6.886987432563842,9.96771372067411,0 6.8868998179983,9.967696232169697,0 6.886826317816739,9.967692721685028,0 6.886765048683971,9.967677244723506,0 6.886760737157056,9.967621527007244,0 6.886763702874927,9.967560046245785,0 6.886803826413459,9.967449300577545,0 6.886843958897975,9.967326676306186,0 6.886867487798483,9.967212369989882,0 6.887075687510514,9.967243888886626,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor86</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.903250533557479,9.959269099182304,0 6.903348781574441,9.959314920484323,0 6.903440612660237,9.959353631659447,0 6.903538624028938,9.959437372691992,0 6.903643509788795,9.959464938955158,0 6.903694397826579,9.959503790212958,0 6.903763146774693,9.959553571895839,0 6.903875123512395,9.95960798985573,0 6.903934462115346,9.959618067512178,0 6.904066653681779,9.959680019667747,0 6.90401166935271,9.95980353086791,0 6.903967311406173,9.959860569647551,0 6.903948281380778,9.959967162753191,0 6.903904415316457,9.960002613080492,0 6.903882747778134,9.960132891239756,0 6.903816604676778,9.960173548712268,0 6.903774984010365,9.960298368583436,0 6.903753700830507,9.960343168927498,0 6.903771686969504,9.960413293539185,0 6.903682201566196,9.96039831804076,0 6.903595314432369,9.960380506878593,0 6.903556270638131,9.96034486220902,0 6.903501092790121,9.960315497026315,0 6.903429788521191,9.960306017663726,0 6.903321687512727,9.960237307784496,0 6.903250010046045,9.960193167578087,0 6.903172953708953,9.960133986203159,0 6.903095806426991,9.960101665633085,0 6.903119219365679,9.960052425805166,0 6.903067355428893,9.960038146577405,0 6.903049850198569,9.959990670129372,0 6.903000955105894,9.960006569405422,0 6.90294013488999,9.959970230564981,0 6.902939153558474,9.959928379712917,0 6.903003214742012,9.959767889949395,0 6.903055292882152,9.959680199301747,0 6.903043955782692,9.95962906427712,0 6.903250533557479,9.959269099182304,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor91</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.905460168743083,9.958192988711716,0 6.905440310872335,9.958284635111509,0 6.905400393472929,9.958359740340081,0 6.905361846183069,9.95845473430988,0 6.905358586058979,9.958579261817571,0 6.905367113713301,9.958668329385116,0 6.905368780672053,9.958791842282857,0 6.905357172733162,9.95888842458659,0 6.905212693079501,9.958872275273508,0 6.905138879658386,9.9588376404049,0 6.905003927049139,9.958818722780681,0 6.904874922547597,9.958797442322018,0 6.904798185783035,9.958767735575893,0 6.904811557058821,9.95864941203623,0 6.904839141592458,9.958507060545609,0 6.904844324336212,9.958394955437152,0 6.904871465608982,9.958272960559947,0 6.904914463789438,9.958167941765137,0 6.904926577690739,9.958041891947506,0 6.905460168743083,9.958192988711716,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor63</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.907487655047828,9.954645557199841,0 6.907561162511584,9.9546379376555,0 6.90771618783744,9.954657134613203,0 6.907807690639536,9.954670053767144,0 6.908059583271928,9.954695361630661,0 6.908085989401851,9.954693512094371,0 6.908110676173298,9.954712086893455,0 6.908106852658833,9.954761795473152,0 6.908099967630685,9.954838320268919,0 6.90811270765532,9.954924218899103,0 6.908123423092318,9.954994416977712,0 6.90812462865277,9.95506540174607,0 6.908135569691685,9.955120138139348,0 6.908139841755268,9.955168552195801,0 6.908125486246785,9.955201854843194,0 6.90813508142134,9.955232029836958,0 6.908145781507937,9.955257526139519,0 6.908156349287149,9.955320483967146,0 6.908165975133109,9.955374647906067,0 6.908170104652775,9.955492172977722,0 6.908177505439459,9.95557140529155,0 6.908173205330071,9.955639303493292,0 6.90808519095688,9.955636350816235,0 6.907951103909255,9.955640309325345,0 6.90784929424116,9.95564172889121,0 6.907745484870819,9.955632714022569,0 6.907702398233142,9.955614605697624,0 6.907720875855294,9.955553219595279,0 6.907795040085512,9.95542071335076,0 6.907799913632838,9.955353609265035,0 6.907686229580145,9.955313610214747,0 6.907587959496815,9.955280134262411,0 6.907544305026896,9.955236445576727,0 6.907482345838036,9.955118603944817,0 6.907471411220765,9.954999148993132,0 6.907452309120323,9.954844675072064,0 6.90742827531162,9.95466650547,0 6.907487655047828,9.954645557199841,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor37</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.910525108330123,9.955580610040279,0 6.910506000838854,9.955509600015377,0 6.910496812339673,9.955435601973029,0 6.910526271776223,9.955354021874179,0 6.910580929428207,9.955226523915533,0 6.910644399848347,9.955122682293633,0 6.910694097986272,9.955057208964082,0 6.910730008381549,9.955007700692249,0 6.910779398303202,9.95505168539445,0 6.910829593152538,9.955073201114843,0 6.910923036690506,9.955112545665525,0 6.911000111647382,9.955174542162139,0 6.911032621555249,9.955219658495121,0 6.911091268074109,9.955252175378016,0 6.91116612831088,9.955322350885735,0 6.911207794565685,9.955363879882015,0 6.911163909344509,9.955437541699524,0 6.911117633858086,9.955497560917919,0 6.911067886673415,9.955554898855715,0 6.911034157510132,9.955600802922399,0 6.910979901062757,9.955644552988479,0 6.910898494206301,9.955669449602578,0 6.910806636810671,9.955672075171998,0 6.910749806701393,9.955645491838743,0 6.910709114391791,9.955665738626678,0 6.910665378504719,9.95566367708744,0 6.910623440167476,9.955637145496819,0 6.91058239283822,9.955630690845979,0 6.910493082354412,9.955648513565993,0 6.910525108330123,9.955580610040279,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor38</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.911356031397515,9.954395599361199,0 6.911409790914814,9.95437999109588,0 6.911460796557323,9.954396209768596,0 6.911494816530221,9.95443679850962,0 6.911544924685087,9.954426937949314,0 6.911558652962702,9.954461837394334,0 6.911591372098583,9.954441497212493,0 6.911639971623726,9.954450011083566,0 6.911688129329909,9.954491853560642,0 6.911637804671688,9.954516800164509,0 6.911648376893067,9.954542483479019,0 6.911673345130385,9.95457730832346,0 6.911672247556373,9.954666379924021,0 6.911654629496143,9.954766141946076,0 6.911624498695668,9.954821134880024,0 6.911593763137748,9.954888618772983,0 6.911525342787604,9.955012023443066,0 6.911525342258466,9.955070118335993,0 6.911516367616876,9.955155342748769,0 6.911478053623399,9.955180463191384,0 6.911385699475669,9.955101568484423,0 6.911280897708904,9.955027142625372,0 6.911198064097455,9.954964539887294,0 6.911097538167814,9.954894365059609,0 6.911175671452677,9.95477673355599,0 6.911127752178848,9.954741961127962,0 6.911116934627413,9.954733755943952,0 6.911017442851994,9.954695120192474,0 6.910952321165251,9.954686204188469,0 6.910951835470927,9.954652820679641,0 6.910957976919136,9.954602417153792,0 6.911000729648014,9.95462068146843,0 6.911031729858093,9.954583656498887,0 6.911040137011826,9.954546804998703,0 6.911023428115279,9.954517364315752,0 6.911055717458138,9.954441609398465,0 6.911122915472053,9.954350542661823,0 6.911175778653284,9.954259580185703,0 6.911356031397515,9.954395599361199,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Untitled Polygon</name>
+		<styleUrl>#falseColor68</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						6.923929045925002,9.955856714704161,0 6.923951594213977,9.955709405608188,0 6.923949768328875,9.955620331189364,0 6.923924857503073,9.955535240185466,0 6.923910298082863,9.955446334128524,0 6.923879114953884,9.95542440258675,0 6.92387046313714,9.955424436395617,0 6.923873682337547,9.955349245238425,0 6.923920914413677,9.955329877351792,0 6.92397166932537,9.955354138278727,0 6.92399650674621,9.955396742262037,0 6.924017868696099,9.955416566248196,0 6.924107703024516,9.95542076281059,0 6.924212078371321,9.955409388026839,0 6.92432464099892,9.955386658313572,0 6.92442301699465,9.955393061814942,0 6.924499254335091,9.955402286694941,0 6.92456578354739,9.955446981525467,0 6.924546026249772,9.955537310184068,0 6.924552018928425,9.955630373467415,0 6.924578149796194,9.955725364727096,0 6.924502021506303,9.955760461047669,0 6.924500981158594,9.95585703663998,0 6.924463495647859,9.956009795853767,0 6.924432755277889,9.956185359762852,0 6.924406803338572,9.956251125095275,0 6.924325303759487,9.956259083103333,0 6.92424373116123,9.956271496312169,0 6.924178099550325,9.95622206784661,0 6.924047413795826,9.956191234402413,0 6.923951727702658,9.956058058774364,0 6.923873412909208,9.956024537607448,0 6.923929045925002,9.955856714704161,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
