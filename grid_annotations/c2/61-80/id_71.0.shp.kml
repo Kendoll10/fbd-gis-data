@@ -3,19 +3,27 @@
 <Document>
 	<name>id_71.0.shp</name>
 	<open>1</open>
-	<Schema name="id_71" id="S_id_71_DDDDD">
-		<SimpleField type="double" name="id_2"><displayName>&lt;b&gt;id&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="left"><displayName>&lt;b&gt;left&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="top"><displayName>&lt;b&gt;top&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="right"><displayName>&lt;b&gt;right&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="bottom"><displayName>&lt;b&gt;bottom&lt;/b&gt;</displayName>
-</SimpleField>
-	</Schema>
-	<Style id="falseColor245">
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor239">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor235</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor231</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor243">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
   <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
@@ -45,36 +53,6 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor243">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="falseColor262">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<Style id="s_ylw-pushpin_hl60">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -87,7 +65,7 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor241">
+	<Style id="falseColor264">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
   <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
@@ -117,7 +95,7 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor253">
+	<Style id="falseColor247">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
   <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
@@ -132,14 +110,14 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="falseColor249">
+	<StyleMap id="falseColor244">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#falseColor252</styleUrl>
+			<styleUrl>#falseColor258</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#falseColor245</styleUrl>
+			<styleUrl>#falseColor246</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="falseColor252">
@@ -157,16 +135,223 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="falseColor236">
+	<StyleMap id="m_ylw-pushpin70">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#falseColor265</styleUrl>
+			<styleUrl>#s_ylw-pushpin90</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#falseColor247</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl60</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="falseColor250">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor248</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor233</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor248">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor260">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor256</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor229</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor237">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin91</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor262">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor231">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor265">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor263">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor232</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor228</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor240">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor259">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor234">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor237</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor264</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor249">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor252</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor245</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor232">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor245">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
 	<Style id="s_ylw-pushpin_hl6">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -179,7 +364,17 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor247">
+	<StyleMap id="falseColor251">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor262</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="falseColor229">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
   <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
@@ -209,7 +404,76 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor237">
+	<StyleMap id="falseColor242">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor259</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor243</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor236">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor265</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor247</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="falseColor230">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor257</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor253</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin90">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor235">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
+  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
+  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
+  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
+  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor255">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
   <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
@@ -239,17 +503,7 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor229">
+	<Style id="falseColor253">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
   <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
@@ -264,42 +518,7 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="falseColor244">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor258</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor246</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor265">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="falseColor239">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor235</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor231</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor255">
+	<Style id="falseColor257">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
   <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
@@ -329,46 +548,6 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor240">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="falseColor230">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor257</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor253</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor232">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<StyleMap id="falseColor261">
 		<Pair>
 			<key>normal</key>
@@ -379,48 +558,15 @@
 			<styleUrl>#falseColor255</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="falseColor242">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor259</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor243</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="falseColor234">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor237</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor264</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="falseColor251">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor240</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor262</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor235">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
+	<Style id="s_ylw-pushpin91">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 		<PolyStyle>
-			<colorMode>random</colorMode>
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
@@ -439,230 +585,14 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor227">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin90</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl60</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor257">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="falseColor264">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="s_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="falseColor259">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="s_ylw-pushpin90">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="falseColor263">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor232</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor228</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor248">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="falseColor250">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor248</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor233</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="falseColor260">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor256</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor229</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin9</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin9">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="falseColor238">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor227</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor241</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="falseColor231">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_71/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_71/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_71/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_71/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_71/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<Folder id="layer 0">
 		<name>id_71</name>
-		<Placemark>
-			<styleUrl>#falseColor238</styleUrl>
-			<ExtendedData>
-				<SchemaData schemaUrl="#S_id_71_DDDDD">
-					<SimpleData name="id_2">71</SimpleData>
-					<SimpleData name="left">6.83037</SimpleData>
-					<SimpleData name="top">9.85309</SimpleData>
-					<SimpleData name="right">6.93037</SimpleData>
-					<SimpleData name="bottom">9.75309</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							6.830366201738753,9.753089037407152,0 6.930366201738769,9.753089037407152,0 6.930366201738769,9.853089037407168,0 6.830366201738753,9.853089037407168,0 6.830366201738753,9.753089037407152,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
+		<visibility>0</visibility>
+		<open>1</open>
 		<Placemark>
 			<name>Untitled Polygon</name>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin70</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -677,6 +607,7 @@
 	</Folder>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor250</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -691,6 +622,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor260</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -705,6 +637,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor236</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -719,6 +652,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor244</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -733,6 +667,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor249</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -747,6 +682,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor239</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -761,6 +697,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor242</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -775,6 +712,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor230</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -789,6 +727,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor234</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -803,6 +742,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor263</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -817,6 +757,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor261</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -831,6 +772,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#falseColor251</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -845,7 +787,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -859,7 +802,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -873,7 +817,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -887,7 +832,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -901,7 +847,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -915,7 +862,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -929,7 +877,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -943,7 +892,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -957,7 +907,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -971,7 +922,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -985,7 +937,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin7</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin70</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -999,6 +952,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1013,6 +967,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1027,6 +982,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1041,6 +997,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1055,6 +1012,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1069,6 +1027,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1083,6 +1042,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1097,6 +1057,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1111,6 +1072,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1125,6 +1087,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1139,6 +1102,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1153,6 +1117,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin8</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -1167,7 +1132,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1181,7 +1147,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1195,7 +1162,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1209,7 +1177,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1223,7 +1192,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1237,7 +1207,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1251,7 +1222,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1265,7 +1237,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1279,7 +1252,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1293,7 +1267,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1307,7 +1282,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1321,7 +1297,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1335,7 +1312,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1349,7 +1327,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1363,7 +1342,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1377,7 +1357,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1391,7 +1372,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1405,7 +1387,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1419,7 +1402,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1433,7 +1417,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1447,7 +1432,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
@@ -1461,7 +1447,8 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<visibility>0</visibility>
+		<styleUrl>#m_ylw-pushpin7</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
 			<outerBoundaryIs>
