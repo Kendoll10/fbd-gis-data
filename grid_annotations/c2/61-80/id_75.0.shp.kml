@@ -3,18 +3,6 @@
 <Document>
 	<name>id_75.0.shp</name>
 	<open>1</open>
-	<Schema name="id_75" id="S_id_75_DDDDD">
-		<SimpleField type="double" name="id_2"><displayName>&lt;b&gt;id&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="left"><displayName>&lt;b&gt;left&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="top"><displayName>&lt;b&gt;top&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="right"><displayName>&lt;b&gt;right&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="bottom"><displayName>&lt;b&gt;bottom&lt;/b&gt;</displayName>
-</SimpleField>
-	</Schema>
 	<StyleMap id="m_ylw-pushpin11">
 		<Pair>
 			<key>normal</key>
@@ -25,21 +13,6 @@
 			<styleUrl>#s_ylw-pushpin_hl12</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="falseColor468">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_75/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_75/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_75/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_75/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_75/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<Style id="s_ylw-pushpin13">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -88,31 +61,6 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor469">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_75/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_75/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_75/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_75/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_75/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="falseColor467">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor468</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor469</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -126,30 +74,10 @@
 	<Folder id="layer 0">
 		<name>id_75</name>
 		<open>1</open>
-		<Placemark>
-			<styleUrl>#falseColor467</styleUrl>
-			<ExtendedData>
-				<SchemaData schemaUrl="#S_id_75_DDDDD">
-					<SimpleData name="id_2">75</SimpleData>
-					<SimpleData name="left">6.83037</SimpleData>
-					<SimpleData name="top">9.45309</SimpleData>
-					<SimpleData name="right">6.93037</SimpleData>
-					<SimpleData name="bottom">9.35309</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							6.830366201738753,9.35308903740717,0 6.930366201738769,9.35308903740717,0 6.930366201738769,9.453089037407146,0 6.830366201738753,9.453089037407146,0 6.830366201738753,9.35308903740717,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
 	</Folder>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -164,6 +92,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -178,6 +107,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -192,6 +122,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -206,6 +137,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -220,6 +152,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -234,6 +167,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -248,6 +182,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -262,6 +197,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -276,6 +212,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -290,6 +227,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -304,6 +242,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -318,6 +257,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -332,6 +272,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -346,6 +287,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -360,6 +302,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -374,6 +317,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -388,6 +332,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -402,6 +347,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -416,6 +362,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -430,6 +377,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -444,6 +392,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -458,6 +407,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -472,6 +422,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -486,6 +437,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -500,6 +452,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -514,6 +467,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -528,6 +482,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -542,6 +497,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -556,6 +512,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -570,6 +527,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -584,6 +542,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -598,6 +557,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -612,6 +572,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -626,6 +587,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -640,6 +602,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -654,6 +617,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -668,6 +632,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -682,6 +647,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -696,6 +662,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -710,6 +677,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -724,6 +692,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -738,6 +707,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -752,6 +722,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin11</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -766,6 +737,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -780,6 +752,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -794,6 +767,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -808,6 +782,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -822,6 +797,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -836,6 +812,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -850,6 +827,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -864,6 +842,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
@@ -878,6 +857,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Untitled Polygon</name>
+		<visibility>0</visibility>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Polygon>
 			<tessellate>1</tessellate>
