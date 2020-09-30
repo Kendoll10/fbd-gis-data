@@ -3,18 +3,6 @@
 <Document>
 	<name>id_79.0.shp</name>
 	<open>1</open>
-	<Schema name="id_79" id="S_id_79_DDDDD">
-		<SimpleField type="double" name="id_2"><displayName>&lt;b&gt;id&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="left"><displayName>&lt;b&gt;left&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="top"><displayName>&lt;b&gt;top&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="right"><displayName>&lt;b&gt;right&lt;/b&gt;</displayName>
-</SimpleField>
-		<SimpleField type="double" name="bottom"><displayName>&lt;b&gt;bottom&lt;/b&gt;</displayName>
-</SimpleField>
-	</Schema>
 	<Style id="s_ylw-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -27,16 +15,6 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="falseColor555">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor532</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor576</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="m_ylw-pushpin16">
 		<Pair>
 			<key>normal</key>
@@ -71,36 +49,6 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
-	<Style id="falseColor576">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_79/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_79/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_79/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_79/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_79/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
-	<Style id="falseColor532">
-		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-  <tr><td><b>id</b></td><td>$[id_79/id_2]</td></tr>
-  <tr><td><b>left</b></td><td>$[id_79/left]</td></tr>
-  <tr><td><b>top</b></td><td>$[id_79/top]</td></tr>
-  <tr><td><b>right</b></td><td>$[id_79/right]</td></tr>
-  <tr><td><b>bottom</b></td><td>$[id_79/bottom]</td></tr>
-</table>]]></text>
-		</BalloonStyle>
-		<PolyStyle>
-			<colorMode>random</colorMode>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -126,27 +74,6 @@
 	<Folder id="layer 0">
 		<name>id_79</name>
 		<open>1</open>
-		<Placemark>
-			<styleUrl>#falseColor555</styleUrl>
-			<ExtendedData>
-				<SchemaData schemaUrl="#S_id_79_DDDDD">
-					<SimpleData name="id_2">79</SimpleData>
-					<SimpleData name="left">6.83037</SimpleData>
-					<SimpleData name="top">9.05309</SimpleData>
-					<SimpleData name="right">6.93037</SimpleData>
-					<SimpleData name="bottom">8.95309</SimpleData>
-				</SchemaData>
-			</ExtendedData>
-			<Polygon>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							6.830366201738753,8.953089037407146,0 6.930366201738769,8.953089037407146,0 6.930366201738769,9.053089037407162,0 6.830366201738753,9.053089037407162,0 6.830366201738753,8.953089037407146,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
 	</Folder>
 	<Placemark>
 		<name>Untitled Polygon</name>
